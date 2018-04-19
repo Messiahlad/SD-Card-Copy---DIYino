@@ -1,0 +1,2 @@
+DIYinoSF.bat
+excludedfileslist.txt
